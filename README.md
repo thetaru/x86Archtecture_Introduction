@@ -1,1 +1,9 @@
-# x86Archtecture_Introduction
+# ログ
+## 動作環境
+```
+OS: CentOS Stream
+nasm: 2.15.05
+gcc: 8.5.0
+```
+
+自作エミュレータで学ぶx86アーキテクチャが読み終わったので、まとめておきます。
